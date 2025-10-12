@@ -54,49 +54,9 @@ const products = [
     isNew: true,
   },
 ];
-// New Arrivals component
 
-const newarivals = [
-  {
-    id: 1,
-    name: 'Air Max 270',
-    brand: 'Nike',
-    price: 150,
-    oldPrice: 180,
-    rating: 4.5,
-    reviews: 128,
-    colors: ['#000', '#fff', '#ff0000'],
-    imageBg: 'bg-red-600',
-    imageUrl: null, 
-    isNew: true,
-  },
-  {
-    id: 2,
-    name: 'Oxford Dress Shoe',
-    brand: 'Cole Haan',
-    price: 180,
-    oldPrice: 220,
-    rating: 3.8,
-    reviews: 73,
-    colors: ['#654321', '#A0522D', '#000'],
-    imageBg: 'bg-gray-900',
-    imageUrl: null, 
-    isNew: true,
-  },
-  {
-    id: 3,
-    name: 'Running Ultraboost',
-    brand: 'Adidas',
-    price: 180,
-    oldPrice: null, // No old price shown in image
-    rating: 4.0,
-    reviews: 201,
-    colors: ['#000', '#fff', '#0000ff'],
-    imageBg: 'bg-pink-100', // Light background color
-    imageUrl: null, 
-    isNew: true,
-  },
-];
+
+
 
 const StepForwardNavbar = () => {
   return (
