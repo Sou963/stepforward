@@ -15,7 +15,7 @@ const products = [
     reviews: 128,
     colors: ["black", "white", "red"],
     image:
-      "/image/red-shoe.png",
+      "/stepforward/image/red-shoe.png",
     isNew: true,
   },
   {
