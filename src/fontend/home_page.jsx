@@ -50,7 +50,7 @@ const products = [
     reviews: 73,
     colors: ["black", "brown"],
     image:
-      "/image/man-watch.jpg",
+      "/public/image/man-watch.jpg",
     isNew: true,
   },
 ];
