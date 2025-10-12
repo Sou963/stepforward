@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/stepforward/static/css/main.31d6cfe0.css",
+    "main.js": "/stepforward/static/js/main.fa4e19d1.js",
+    "static/js/453.f6ca5562.chunk.js": "/stepforward/static/js/453.f6ca5562.chunk.js",
+    "index.html": "/stepforward/index.html",
+    "main.fa4e19d1.js.map": "/stepforward/static/js/main.fa4e19d1.js.map",
+    "453.f6ca5562.chunk.js.map": "/stepforward/static/js/453.f6ca5562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.fa4e19d1.js"
+  ]
+}
